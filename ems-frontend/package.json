@@ -1,0 +1,32 @@
+{
+  "name": "ems-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "antd": "^4.16.13",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.6",
+    "@reduxjs/toolkit": "^1.7.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "@types/react": "^17.0.21",
+    "@types/node": "^16.7.10",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "latest",
+    "jest": "^27.0.6",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/jest-dom": "^5.16.4"
+  }
+}

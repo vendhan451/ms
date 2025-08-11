@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "@types/node": "^24.2.1",
+    "@types/react-redux": "^7.1.34",
+    "antd": "^5.27.0",
+    "next": "^15.4.6",
+    "react-redux": "^9.2.0"
+  }
+}
